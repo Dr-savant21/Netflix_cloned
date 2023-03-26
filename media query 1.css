@@ -1,0 +1,278 @@
+@media screen and (max-width:1050px) and (min-width:800px) {
+    .netflix-icon{
+        width: 80px;
+        height: 80px;
+        position: relative;
+        bottom: 20px;
+        left: 20px;
+    }
+    
+    .background-image{
+        background-image: url(../Netflix/netflix\ main\ page.jpg);
+        height: 40vh;
+        width: 500px;
+    }
+    
+    body{
+        height: 100%;
+        background-color: black;
+        color: white;
+        margin: 0px;
+        font-family: sans-serif;
+        font-weight: normal;
+    }
+    
+    .top-container p{ 
+        font-size: 12px; 
+        padding-bottom: 10px;
+    }
+    
+    .hr{
+        border-top: 5px solid #222;
+    }
+    
+    .sign-in{
+        width: 5rem;
+        height: 3rem;
+        background-color: red;
+        font-size: large;
+        border-style: none;
+        border-radius: 10px;
+    }
+    
+    button a{
+         text-decoration: none;
+         color: white;
+    }
+    
+    .top-container{
+        text-align: center;
+        color: white;
+    }
+    
+    h1{
+        font-size: 30px;    
+    }
+    
+   /* #lang{
+        height: 35px;
+        width: 80px;
+    } */
+    
+    .top-h2{
+        font-size: 15px;
+        font-weight: normal;
+    }
+    
+    input.email{
+        margin-left: 100px;
+        font-size: 1rem;
+        padding: 5px;
+        margin-right: 0px;
+        width: 20rem;
+        height: 1.5rem;
+        background-color: white;
+        border-style: none;
+        position: relative;
+        right: 2rem;
+    }
+    
+    .btn{
+        font-size: 1.2rem;
+        background-color: red;
+        border-style: none;
+        width: 20rem;
+        height: 2rem;
+        position: relative;
+        left: 1rem;
+        top: 0.5rem;
+    }
+    
+    .text-kids-section{
+        margin-top: 4.5rem;
+        padding-top: 2rem;
+    }
+    
+    .kids-middle-section img{
+        width: 450px;
+        padding: 50px 5%;
+    }
+    
+    .nav-bar{
+        display: flex;
+        padding-top: 20px;
+    }
+    
+
+    
+    .tv{
+        position: ;
+        
+    }
+    
+    .tv img{
+        position: ;
+    }
+    
+    .mobile-middle-section{
+        display: flex;
+    }
+    
+    .text-mobile-section{
+        font-size: 20px;
+        font-weight: normal;
+        position: relative;
+        right: 200px;
+        top: 100px;  
+    }
+    
+    .text-mobile-section h2{
+        font-size: 1.625rem;
+        font-weight: 400;
+    }
+    
+    .kids-middle-section{
+        display: flex;
+    }
+    
+    .faq-1-h1{
+        font-size: 3.125rem;
+        text-align:center;
+        font-family: sans-serif;
+    
+    }
+    
+    .home-sign-in{
+        text-align: center;
+    }
+    
+    ul{
+        list-style-type: none;
+        text-align: center;
+    }
+    
+    .faq-1{
+        color: white;
+        margin-left: 340px;
+        margin-top: 40px;
+    }
+    
+    .faq-1-what{
+        background-color: #303030;
+        height: 45px;
+        width: 700px;
+        font-size: 25px;
+        padding-top: 20px;
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-between;
+        cursor:grabbing;
+    }
+    
+    .faq-1-what p{
+        position: relative;
+        bottom: 1.5rem;
+    }
+    .footer-link a{
+        color: #8c8c8c;
+        text-decoration: none;
+    }
+    
+    .footer-1{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .footer-2{
+        display: flex;
+        justify-content: space-evenly;
+        position: relative;
+        right: 230px;
+    }
+    
+    .footer-link{
+        padding-top: 50px;
+        margin-left: 5rem;
+    }
+    
+    .home-footer{
+        margin-left: 5rem;
+        padding-left: 2rem;
+        margin-top: 100px;
+        font-size: 14px;
+    }
+    
+    .footer-3{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+    .footer-4{
+        display: flex;
+        justify-content: space-around;
+        position: relative;
+        right: 150px;
+    }
+    
+    .footer-link-home .footer-2{
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 7.2rem;
+    }
+    
+    .footer-link-home{
+        padding-top: 50px;
+        margin-left: 5rem;
+    }
+    
+    .footer-link-home a{
+        color: #8c8c8c;
+        text-decoration: none;
+    }
+    
+    .footer-link-home .footer-1{
+        position: relative;
+        right: 88px;
+    }
+    
+    .footer-link-home .footer-3{
+        position: relative;
+        right: 75px;
+    }
+    
+    .mobile-pic-section{
+        border: 2px solid #222;
+        display: flex;
+        justify-content: space-around;
+        height: 80px;
+        width: 550px;
+        padding-top: 10px;
+        border-radius: 12px;
+        background-color: black;
+        position: relative;
+        right: 420px;
+        top: 250px;
+    }
+    
+    .mobile-pic-section p{
+        position: relative;
+        top: 8px;
+        right: 23px;
+    }
+    
+    .mobile-pic-section p span{
+        color: #0071eb;
+    }
+    
+    .download{
+        position: relative;
+        top: 20px;
+    }
+    
+    .text-tv-middle-section{
+        font-weight: normal;
+    }  
+    .text-tv-middle-section h1{
+        font-size: 2rem;
+    }  
+}
